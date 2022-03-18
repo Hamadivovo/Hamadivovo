@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HamadiIddi
-- 👀 I’m interested in Programming (java and python), Ethical hacking and Computer Networking.
-- 🌱 I’m currently learning Advanced Java and Computer Networking (CCNA).
-- 💞️ I’m looking to collaborate on Java Projects.
+- 👀 I’m interested in Programming (python), Ethical hacking and Computer Networking.
+- 🌱 I’m currently learning Penetration Testing and Python for Hackers.
+- 💞️ I’m looking to collaborate on Python Projects.
 - 📫 You can easily reach me at hamaditaufik@gmail.com.
