@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HamadiIddi
-- 👀 I’m interested in Programming (python), Ethical hacking and Computer Networking.
-- 🌱 I’m currently learning Penetration Testing and Python for Hackers.
-- 💞️ I’m looking to collaborate on Python Projects.
-- 📫 You can easily reach me at hamaditaufik@gmail.com.
+- 👋 Hi, I’m Dhulqarnayn (and yeah its a code name, I prefere to remain anonymous)
+- 👀 I’m interested in Programming (python, java, and javascript), Ethical hacking and Computer Networking.
+- 🌱 I’m a lifetime learner, I dont know every technology but I can learn any if need be.
+- 💞️ I’m looking to collaborate on Networking and Hacking Projects.
+- 📫 You can easily reach me at hamfun@gmail.com.
